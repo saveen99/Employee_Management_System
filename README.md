@@ -2,7 +2,7 @@
 
 ### CRUD REST APIs (Backend)
 
-### Requirements
+Requirements:
 - Add Employee
 - Get Employee
 - Get All Employee
@@ -11,7 +11,7 @@
 
 ### React App (Frontend)
 
-### Requirments
+Requirments:
 User should able perform below CRUD operations
 - Add New Employee
 - List All Employees
