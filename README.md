@@ -1,4 +1,6 @@
-## CRUD REST APIs for Employee Management
+## Employee Management System using React + Spring Boot
+
+### CRUD REST APIs (Backend)
 
 ### Requirements
 - Add Employee
@@ -7,4 +9,13 @@
 - Update Employee
 - Delete Employee
 
-### Structure
+### React App (Frontend)
+
+### Requirments
+User should able perform below CRUD operations
+- Add New Employee
+- List All Employees
+- Update Existing Employee
+- Delete Existing Employee
+
+### Fill-Stack Structure
