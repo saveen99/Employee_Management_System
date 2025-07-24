@@ -20,4 +20,3 @@ User should able perform below CRUD operations
 - Delete Existing Employee
 
 ### Fill-Stack Structure
-<p align="center" ><img  src = "screenshots/em.jpg?raw=true" width = 1000px></p>
