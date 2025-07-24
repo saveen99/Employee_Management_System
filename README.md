@@ -1,5 +1,17 @@
 ## Employee Management System using React + Spring Boot (Ongoing Project..)
 
+### Tech Stack
+- Spring Boot 3
+- Spring Data JPA (Hibernate 6)
+- MySQL
+- Maven
+- Postman
+- React Js
+- Vite Js
+- Bootstrap CSS
+- npm
+- Axios
+
 ### CRUD REST APIs (Backend)
 
 Requirements:
