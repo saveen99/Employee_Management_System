@@ -31,5 +31,5 @@ User should able perform below CRUD operations
 - Update Existing Employee
 - Delete Existing Employee
 
-### Fill-Stack Structure
+### Full-Stack Structure
 <p align="center" ><img  src = "screenshots/em.png?raw=true" width = 700px></p>
